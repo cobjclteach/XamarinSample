@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{8AC9E012-2C0B-4CC6-B14F-19141B6D46C0}|Default">
+  <MonoDevelop.Ide.ItemProperties.Sample__Personality__Test.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.342E7E47-CB07-4CA6-80EB-DAE32E5C3988" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Sample_Personality_Test/MainPage.xaml.cs">
+    <Files>
+      <File FileName="Sample_Personality_Test/MainPage.xaml" Line="28" Column="24" />
+      <File FileName="Sample_Personality_Test.iOS/Main.cs" Line="17" Column="1" />
+      <File FileName="Sample_Personality_Test/Questions.cs" Line="28" Column="31" />
+      <File FileName="Sample_Personality_Test/MainPage.xaml.cs" Line="67" Column="10" />
+      <File FileName="Sample_Personality_Test/Houses.cs" Line="30" Column="15" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Sample_Personality_Test" expanded="True">
+            <Node name="Sample_Personality_Test" expanded="True">
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="Sample_Personality_Test.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Sample__Personality__Test.Android PreferredExecutionTarget="Android.pixel_2_pie_9_0_api_28" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

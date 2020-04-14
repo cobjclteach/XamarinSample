@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:d="http://xamarin.com/schemas/2014/forms/design" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d" x:Class="Sample_Personality_Test.MainPage">
+    <ContentPage.Resources>
+        <Thickness x:Key="PageMargin">20</Thickness>
+        
+        <!-- Colors -->
+        <Color x:Key="AppBackgroundColor">AliceBlue</Color>
+        <Color x:Key="NavigationBarColor">#1976D2</Color>
+        <Color x:Key="NavigationBarTextColor">White</Color>
+        <Style TargetType="Button" 
+               ApplyToDerivedTypes="True" 
+               CanCascade="True">
+            <Setter Property="FontSize" Value="Medium" />
+            <Setter Property="BackgroundColor" Value="#1976D2" />
+            <Setter Property="TextColor" Value="White" />
+            <Setter Property="CornerRadius" Value="5" />
+        </Style>
+    </ContentPage.Resources>
+    <StackLayout Orientation="Vertical">
+        <!-- Place new controls here -->
+        <Label x:Name="Question"
+               Font="Large" 
+               Text="Q-Q-Q"
+               HorizontalOptions="CenterAndExpand"
+               VerticalOptions="CenterAndExpand"
+               Margin="20,20,20,20" />
+        <Image x:Name="Banner"
+                    WidthRequest="256"
+                    HeightRequest="320"
+                    Margin="5,5,5,5"
+                    HorizontalOptions="Center" VerticalOptions="Center"
+                    IsVisible="False"/>
+        <StackLayout Orientation="Horizontal" HorizontalOptions="FillAndExpand" VerticalOptions="Center">
+            <Button x:Name="Left_Button" Text="L-L-L" Clicked="OnLeftButtonClicked"
+                    WidthRequest="190"
+                    HeightRequest="75"
+                    Margin="5,10,10,20" />
+            <Button x:Name="Right_Button" Text="R-R-R" Clicked="OnRightButtonClicked"
+                    WidthRequest="190"
+                    HeightRequest="75"
+                    Margin="5,10,10,20" />
+        </StackLayout>
+    </StackLayout>
+</ContentPage> 

@@ -1,0 +1,12 @@
+/Users/mgreen14/Projects/Sample_Personality_Test/Sample_Personality_Test/bin/Debug/netstandard2.0/Sample_Personality_Test.deps.json
+/Users/mgreen14/Projects/Sample_Personality_Test/Sample_Personality_Test/bin/Debug/netstandard2.0/Sample_Personality_Test.dll
+/Users/mgreen14/Projects/Sample_Personality_Test/Sample_Personality_Test/bin/Debug/netstandard2.0/ref/Sample_Personality_Test.dll
+/Users/mgreen14/Projects/Sample_Personality_Test/Sample_Personality_Test/bin/Debug/netstandard2.0/Sample_Personality_Test.pdb
+/Users/mgreen14/Projects/Sample_Personality_Test/Sample_Personality_Test/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/mgreen14/Projects/Sample_Personality_Test/Sample_Personality_Test/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/mgreen14/Projects/Sample_Personality_Test/Sample_Personality_Test/obj/Debug/netstandard2.0/Sample_Personality_Test.AssemblyInfoInputs.cache
+/Users/mgreen14/Projects/Sample_Personality_Test/Sample_Personality_Test/obj/Debug/netstandard2.0/Sample_Personality_Test.AssemblyInfo.cs
+/Users/mgreen14/Projects/Sample_Personality_Test/Sample_Personality_Test/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/mgreen14/Projects/Sample_Personality_Test/Sample_Personality_Test/obj/Debug/netstandard2.0/Sample_Personality_Test.dll
+/Users/mgreen14/Projects/Sample_Personality_Test/Sample_Personality_Test/obj/Debug/netstandard2.0/ref/Sample_Personality_Test.dll
+/Users/mgreen14/Projects/Sample_Personality_Test/Sample_Personality_Test/obj/Debug/netstandard2.0/Sample_Personality_Test.pdb
